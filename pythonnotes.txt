@@ -1,0 +1,61 @@
+PYTHON KEYWORDS:
+
+case sensitive:-true,false,none;
+non-case sensitive:-and,as,assert,break,continue,class,def,del,elif,else,except,binary,or,from,global,nonlocal,if,import,
+in,lambda,not,pass,raise,return,try,while,with,yield.
+
+Class is a collection of related attribute & methods.We put data & func. 
+Classes can be defined everywhere in program but it is a good practice to define single class in a module.def
+
+**we can take a string & a variable  together as 2 arg. of print function.(,)
+
+Variable Assignment rules::
+(-) are not permitted,any variable cannot begin with a number, we cannot use any other symbol other than (_),
+variable name should not be more than 1 word.
+
+*Multiple Assignment: you can assign 1 single value to several variable at at same time. we can also assign sevaral value
+to several variables in the same line.
+ASCII:american standard code for information interchange.
+python follows UNICODE.
+In python a string is sequence of unicode characters.
+We can access individual char using indexing .Indexing alway sstrat from 0.trying to access a char out of range will raise
+an error.Index will always be a integer.we cannot use float & other datatype as it will result in type error.
+Python allows -ve indexing . -1 refers last element. -2 refers last 2nd element
+
+Que: Write a program to get a string made of the 1st two & last two char from a given string.
+---------
+Que:write a program to calculate the sum of 3 given numbers if the vaues are equal then return thrice their sum.
+---------
+Que:WAP to find whether a given no. is even or odd.Print out appropriate message.
+---------
+Que:WAP to accept user's first & last name & print them in reverse order.
+---------
+Que:Check whether the given no. is leap year or not.
+============
+Math Functions:
+ceil(x),copysign(x,y),fabs(x),floor(x),factorial(),fmod(x,y),frexp(x),fsum(iterable),isfinite(x),idexp(x,i),modf(x),
+trunc(x),exp(x)[e**x],expm1(x)[e**x-1].
+It returns the smallest integer greater than or equal to x.
+Mantissa & exponent.
+-------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+dabdbkdvkcwihclmfiwugiuh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
